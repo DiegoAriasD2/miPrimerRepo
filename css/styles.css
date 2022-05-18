@@ -1,0 +1,42 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+body {
+
+    background-image: url("../img/descarga.jpg");
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header {
+
+    background-color: rgb(215, 242, 250);
+    padding: 10%;
+    margin-bottom: 1px;
+}
+
+header h1 {
+    text-align: center;
+    color: rgb(34, 56, 178);
+    font-style: italic;
+}
+
+h2,
+h3{
+    margin:10px 0;
+}
+
+.imgReceta {
+    width: 300px;
+}
+
+caption{
+padding: 20px;
+font-style: italic;
+
+
+
+}
+
